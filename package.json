@@ -29,15 +29,15 @@
     "@actions/core": "^3.0.1",
     "@octokit/plugin-throttling": "^11.0.3",
     "@octokit/rest": "^22.0.1",
-    "minimatch": "^10.2.5"
+    "minimatch": "^10.2.6"
   },
   "devDependencies": {
-    "@types/node": "^24.13.2",
-    "@vitest/coverage-v8": "^4.1.9",
+    "@types/node": "^24.13.3",
+    "@vitest/coverage-v8": "^4.1.10",
     "esbuild": "^0.28.0",
     "husky": "^9.1.7",
-    "lint-staged": "^17.0.8",
-    "prettier": "3.8.4",
+    "lint-staged": "^17.2.0",
+    "prettier": "3.9.6",
     "typescript": "^7.0.2",
     "vitest": "^4.0.14"
   },
